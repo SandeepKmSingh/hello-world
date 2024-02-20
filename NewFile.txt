@@ -1,1 +1,2 @@
-this is added after file is staged.
+this is updated after file is staged.
+line added
